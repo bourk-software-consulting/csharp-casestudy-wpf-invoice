@@ -1,0 +1,25 @@
+Invoice Open Source Exercice
+Functionnality to Add
+{
+	Delete An Entry
+	Add an history list
+	See the total for contracts 
+	See the total for invoices 
+	search the companies.
+	Auto increment of the contract number / invoice
+	add language	
+}
+Bugs
+{
+   invoice tab - editing an invoice do not fill the combo box.
+   unable to unselecct a combobox.
+   unable to use . as the digit ,   
+   wrong calculation under invoice value inclusive / exclusive
+   unable to export invoices
+}
+Technical Debt
+{
+	btn Addemndum text is in a cs file.magic value.
+	all the logic is in the views / editors
+	all the db logic is in the model.
+}
