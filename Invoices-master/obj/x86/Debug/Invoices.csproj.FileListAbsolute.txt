@@ -1,0 +1,164 @@
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.exe.config
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.exe
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.pdb
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.dll
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServer.dll
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\System.Data.SqlServerCe.dll
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.xml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServer.xml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.csprojResolveAssemblyReference.cache
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\Theme.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\AddendumEditor.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\EditorTheme.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\InvoiceEditor.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\AddendumWindow.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\AddendumEditor.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\CompanyEditor.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\ContractEditor.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\InvoiceEditor.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\MainWindow.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\CompanyWindow.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\ContractWindow.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\InvoiceWindow.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\App.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices_MarkupCompile.cache
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices_MarkupCompile.lref
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\AddendumWindow.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\CompanyEditor.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\ContractEditor.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\MainWindow.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\CompanyWindow.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\ContractWindow.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\InvoiceWindow.baml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.g.resources
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.Properties.Resources.resources
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.csproj.GenerateResource.Cache
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.exe
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.pdb
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.exe.CodeAnalysisLog.xml
+D:\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.exe.lastcodeanalysissucceeded
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.exe.config
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.exe
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.pdb
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\System.Data.SqlServerCe.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\Theme.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\AddendumEditor.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\EditorTheme.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\InvoiceEditor.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\AddendumWindow.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\AddendumEditor.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\CompanyEditor.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\ContractEditor.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\InvoiceEditor.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\MainWindow.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\CompanyWindow.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\ContractWindow.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\InvoiceWindow.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\App.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices_MarkupCompile.cache
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices_MarkupCompile.lref
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\AddendumWindow.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\CompanyEditor.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\ContractEditor.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\MainWindow.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\CompanyWindow.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\ContractWindow.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\InvoiceWindow.baml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.g.resources
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.Properties.Resources.resources
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.csproj.GenerateResource.Cache
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.csproj.CoreCompileInputs.cache
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.exe
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.pdb
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.exe.config
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.exe
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\Invoices.pdb
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.dll
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServer.dll
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\System.Data.SqlServerCe.dll
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.xml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServer.xml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.csprojResolveAssemblyReference.cache
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\Theme.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\AddendumEditor.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\EditorTheme.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\InvoiceEditor.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\AddendumWindow.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\AddendumEditor.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\CompanyEditor.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\ContractEditor.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\InvoiceEditor.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\MainWindow.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\CompanyWindow.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\ContractWindow.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\InvoiceWindow.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\App.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices_MarkupCompile.cache
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices_MarkupCompile.lref
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\AddendumWindow.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\CompanyEditor.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Editors\ContractEditor.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\MainWindow.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\CompanyWindow.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\ContractWindow.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\View\InvoiceWindow.baml
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.g.resources
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.Properties.Resources.resources
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.csproj.GenerateResource.Cache
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.csproj.CoreCompileInputs.cache
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.exe
+D:\development\7351933 Canada Inc\Kata\invoices-deleteInvoiceExample_SpecFlow_Mediator\Invoices-master\obj\x86\Debug\Invoices.pdb
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\bin\Debug\Invoices.exe.config
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\bin\Debug\Invoices.exe
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\bin\Debug\Invoices.pdb
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\bin\Debug\System.Data.SqlServerCe.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\bin\Debug\EntityFramework.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\bin\Debug\EntityFramework.SqlServer.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Invoices.csprojResolveAssemblyReference.cache
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\Theme.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Editors\AddendumEditor.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Editors\EditorTheme.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Editors\InvoiceEditor.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\AddendumWindow.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Editors\AddendumEditor.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Editors\CompanyEditor.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Editors\ContractEditor.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Editors\InvoiceEditor.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\MainWindow.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\CompanyWindow.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\ContractWindow.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\InvoiceWindow.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\App.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Invoices_MarkupCompile.cache
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Invoices_MarkupCompile.lref
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\AddendumWindow.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Editors\CompanyEditor.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Editors\ContractEditor.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\MainWindow.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\CompanyWindow.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\ContractWindow.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\View\InvoiceWindow.baml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Invoices.g.resources
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Invoices.Properties.Resources.resources
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Invoices.csproj.GenerateResource.Cache
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Invoices.csproj.CoreCompileInputs.cache
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Invoices.exe
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\obj\x86\Debug\Invoices.pdb
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\bin\Debug\EntityFramework.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\bin\Debug\EntityFramework.SqlServer.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\Invoices-master\bin\Debug\EntityFramework.SqlServerCompact.dll

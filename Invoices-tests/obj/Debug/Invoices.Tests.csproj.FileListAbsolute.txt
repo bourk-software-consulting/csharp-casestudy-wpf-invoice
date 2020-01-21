@@ -1,0 +1,198 @@
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\obj\Debug\Invoices.Tests.csprojResolveAssemblyReference.cache
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\obj\Debug\Invoices.Tests.csproj.CoreCompileInputs.cache
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\UnitTestProject2.dll.config
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Castle.Core.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\EntityFramework.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Invoices.exe
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Moq.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\nunit.framework.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Invoices.pdb
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Invoices.exe.config
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Castle.Core.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\EntityFramework.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Moq.pdb
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\Moq.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\nunit.framework.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\OneDrive\7351933 Canada inc\classes\MyClasses\case studies\invoices\invoices-deleteInvoiceExample_SpecFlow_Mediator\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\UnitTestProject2.dll.config
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Castle.Core.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.SqlServer.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Invoices.exe
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Moq.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\nunit.framework.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\System.ValueTuple.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Invoices.pdb
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Invoices.exe.config
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Castle.Core.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.SqlServer.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Moq.pdb
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\Moq.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\nunit.framework.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\obj\Debug\Invoices.Tests.csprojResolveAssemblyReference.cache
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\obj\Debug\Invoices.Tests.csproj.CoreCompileInputs.cache
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\System.Data.SqlServerCe.dll
+D:\development\7351933 Canada Inc\Kata\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\obj\Debug\Invoices.Tests.csprojAssemblyReference.cache
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\obj\Debug\Invoices.Tests.csproj.CoreCompileInputs.cache
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\UnitTestProject2.dll.config
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Castle.Core.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.SqlServer.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Invoices.exe
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Moq.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\nunit.framework.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Data.SqlServerCe.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.ValueTuple.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Invoices.pdb
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Invoices.exe.config
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Castle.Core.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.SqlServer.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Moq.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\nunit.framework.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\obj\Debug\Invoices.Tests.csproj.CopyComplete
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\netstandard.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.AppContext.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Collections.Concurrent.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Collections.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Collections.NonGeneric.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Collections.Specialized.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.ComponentModel.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.ComponentModel.Primitives.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Console.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Data.Common.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Diagnostics.Contracts.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Diagnostics.Debug.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Diagnostics.Process.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Diagnostics.Tools.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Diagnostics.Tracing.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Drawing.Primitives.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Dynamic.Runtime.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Globalization.Calendars.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Globalization.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Globalization.Extensions.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.Compression.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.FileSystem.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.IsolatedStorage.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.Pipes.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Linq.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Linq.Expressions.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Linq.Parallel.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Linq.Queryable.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.Http.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.NameResolution.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.NetworkInformation.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.Ping.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.Primitives.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.Requests.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.Security.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.Sockets.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.WebSockets.Client.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Net.WebSockets.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.ObjectModel.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Reflection.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Reflection.Extensions.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Reflection.Primitives.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Resources.Reader.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Resources.ResourceManager.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Resources.Writer.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.Extensions.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.Handles.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.InteropServices.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.Numerics.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Security.Claims.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Security.Principal.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Security.SecureString.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Text.Encoding.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Text.RegularExpressions.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.Overlapped.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.Tasks.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.Thread.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.ThreadPool.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Threading.Timer.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Xml.ReaderWriter.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Xml.XDocument.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Xml.XmlDocument.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Xml.XmlSerializer.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Xml.XPath.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\nunit.framework.pdb
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\temp\Invoice - Solution using Mediator and Repository Pattern\Invoice - Solution\UnitTestProject2\bin\Debug\System.ValueTuple.xml
